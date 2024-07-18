@@ -7,7 +7,7 @@
     "dev": "node index.js",
     "build": "npm i"
   },
-  "proxy": "",
+  "proxy": "https://admin-pannel-management.onrender.com",
   "author": "",
   "license": "ISC",
   "dependencies": {
